@@ -1,0 +1,4 @@
+#Tue May 26 21:59:53 MSK 2020
+base.0=/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

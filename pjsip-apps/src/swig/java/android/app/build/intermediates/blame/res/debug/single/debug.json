@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/menu_call.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/menu/call.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/drawable_bkg.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/drawable/bkg.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout_dlg_add_buddy.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/layout/dlg_add_buddy.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout_dlg_account_config.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/layout/dlg_account_config.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/layout_activity_call.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/tester/Documents/pjproject/pjsip-apps/src/swig/java/android/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    }
+]
